@@ -1,1 +1,2 @@
 # WebUIPracCO2ConcentrationMeasurement
+CO2濃度測定器のUIをそのままコピーしただけですね。
